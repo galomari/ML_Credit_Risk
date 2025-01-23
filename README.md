@@ -16,6 +16,8 @@ Lauki Finance is a credit risk modelling application designed to help users eval
 
 ## Demo
 
+Try the live demo here: [Lauki Finance Credit Risk Modelling](https://mlcreditrisk1.streamlit.app/)
+
 
 
 ---
